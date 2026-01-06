@@ -1,4 +1,4 @@
-# The Anirudh Protocol
+# The Protocol
 
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
